@@ -1,22 +1,25 @@
-# Hi there 👋, I'm Atharva Sachin Joshi 🚀
+<h1 align="center">Hi 👋, I'm Atharva Sachin Joshi</h1>
+<h3 align="center">Builder • Full-Stack Developer • Student • Future Founder 🚀</h3>
 
-💡 **Builder • Full-Stack Developer • Student • Future Founder**
+<p align="center">
+I build <b>real products</b>, solve <b>practical problems</b>, and turn ideas into <b>working systems</b>.
+</p>
 
-I’m a passionate **full-stack web developer** who loves building **real products**, solving **practical problems**, and turning ideas into working systems.  
-Currently balancing **college + exams** while actively building startups, dashboards, and production-ready apps.
+<p align="center">
+Currently balancing <b>college + exams</b> while building startups, dashboards, and production-ready apps.
+</p>
+
+---
+
+## 🧠 Quick Snapshot
+
+- 🎓 B.Tech @ **SGGSIET, Nanded**
+- 🚀 Aspiring **builder-founder**
+- 🏆 Winner of a **Shark Tank–style startup competition**
+- 🔥 Strong in **problem-solving & fast execution**
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 B.Tech student at **SGGSIET, Nanded**
-- 🧠 Strong in **problem-solving & fast execution**
-- 🚀 Goal: **Become a builder-founder** & run my own startup
-- 💼 Experience in **real-world projects, hackathons & competitions**
-- 🏆 Winner of a **Shark Tank–style competition** for my startup idea
-- 🔥 Believe in: *“Build first. Improve fast.”*
-
----
 ## 🛠️ Tech Stack
 
 <table width="100%">
@@ -24,119 +27,97 @@ Currently balancing **college + exams** while actively building startups, dashbo
 <td valign="top" width="33%">
 
 ### 💻 Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React.js  
-- Next.js  
-- Bootstrap  
-- Material UI  
-- Framer Motion  
-- Lenis  
-- Responsive Design  
-- UI/UX Design  
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js
+- Bootstrap, Material UI
+- Framer Motion, Lenis
+- UI/UX & Responsive Design
 
 </td>
 
 <td valign="top" width="33%">
 
 ### 🧠 Backend
-- Node.js  
-- Express.js  
-- MongoDB  
-- SQL  
-- REST APIs  
-- Authentication & Authorization  
-- Role-based Access Control  
-- Payment Integration  
-- Backend Architecture  
+- Node.js, Express.js
+- MongoDB, SQL
+- REST APIs
+- Auth & Role-based Access
+- Payments & Backend Architecture
 
 </td>
 
 <td valign="top" width="34%">
 
 ### ⚙️ Tools & Platforms
-- Git  
-- GitHub  
-- VS Code  
-- DigitalOcean  
-- Razorpay API  
-- Mapbox API  
-- Postman  
-- Cloud Deployment  
-- API Testing  
+- Git, GitHub
+- VS Code
+- DigitalOcean
+- Razorpay API
+- Mapbox API
+- Postman, Cloud Deployment
 
 </td>
 </tr>
 </table>
+
 ---
 
-## 🚀 Projects & Startups
+## 🚀 Featured Projects
 
 ### 🌟 SmartNShine (SaaS)
-🔗 **Live / Repo:** *(add link here)*
-
+🔗 *(https://www.smartnshine.app/)*
 - AI Resume Generator (Live)
-- AI Interview System (In Development)
-- Built as a **SaaS product for everyone**, not just students
-- Focus on automation, usability & scalability
+- AI Interview System (In Progress)
+- Built for **everyone**, not just students  
 
 ---
 
 ### 🔧 KnockNFix
-🔗 **Live / Repo:** *(https://github.com/atharva038/KnockNFix)*
+🔗 https://github.com/atharva038/KnockNFix
 
-- Local service marketplace platform
-- Separate **User & Provider portals**
-- Location & time-based provider selection
-- Booking system, reviews & ratings
-- Payment system with **advance payment + commission logic**
+- Local service marketplace
+- User & Provider portals
+- Location-based matching
+- Payments with commission logic
 - Backend-driven workflows
-- Web version live, **mobile app planned**
 
 ---
 
-### 🏫 Zenith College Website (Next-Level Design)
-🔗 **Live:** https://www.zenithsggs.com/
+### 🏫 Zenith College Website
+🔗 https://www.zenithsggs.com/
 
-- Modern **college sports & events website**
-- Galaxy-themed UI with **next-level animations**
-- Built with performance & UX in mind
-- Multiple modules:
-  - Home
-  - Women’s Tournament
-  - Marathon
-  - Teams
-  - Forms & registrations
-- **Backend integration for user handling**
-- Designed to break the stereotype of boring college websites
+- Modern college sports & events platform
+- Galaxy-themed UI & animations
+- Multiple modules + backend user handling
+- Built to break boring college website norms
 
 ---
+
+<details>
+<summary><b>📊 More Projects</b></summary>
 
 ### 📊 College System
-🔗 **Repo:** *(https://github.com/atharva038/CollegeSystem)*
+🔗 https://github.com/atharva038/CollegeSystem
 
-- Admin Dashboard for managing elections & candidates
-- Transparent College Budget & Sponsorship Tracking System
-- Clean UI + role-based backend logic
-- Built for real administrative usage
+- Election & candidate management
+- Budget & sponsorship tracking
+- Role-based admin dashboard
+
+</details>
 
 ---
 
-## 🧠 Currently Learning
-
-- NextJS
+## 🌱 Currently Learning
+- Next.js (Advanced)
 - Generative AI
 - Agentic AI
 - Cloud Computing
-- Advanced backend architecture
-- Startup & SaaS scaling strategies
+- SaaS & Startup Scaling
 
 ---
 
 ## 🤝 Open to Collaborate On
-
-- Full-stack web applications
+- Full-stack apps
 - SaaS products
 - Startup ideas
 - Hackathons
@@ -144,37 +125,21 @@ Currently balancing **college + exams** while actively building startups, dashbo
 
 ---
 
-## 💬 Ask Me About
-
-- Full-stack development
-- Building startups from scratch
-- MERN / Next.js stack
-- Dashboard & admin systems
-- Next-level UI/UX & animations
-- Turning ideas into real products
-
----
-
 ## 📫 Connect With Me
 
-- 🐙 GitHub: [@atharva038](https://github.com/atharva038)
-- 💼 LinkedIn: *(https://www.linkedin.com/in/atharva-joshi-8a7b19319/)*
-- 📧 Email: *(atharvasjoshi2005@gmail.com)*
+- 🐙 GitHub: https://github.com/atharva038
+- 💼 LinkedIn: https://www.linkedin.com/in/atharva-joshi-8a7b19319/
+- 📧 Email: atharvasjoshi2005@gmail.com
 
 ---
 
 ## ⚡ Fun Facts
-
-- I hate boring & outdated UIs ❌
-- I love **modern, animated, premium interfaces 🌌**
-- I build even with limited resources
-- Perfectionist… but learning to ship faster 🚀
+- ❌ I hate boring & outdated UIs  
+- 🌌 Love modern, animated, premium interfaces  
+- 🚀 Perfectionist learning to ship faster  
 
 ---
 
-### 🔥 Quote I Live By
 > *“Build things people actually use.”*
 
----
-
-⭐ If you like my work, don’t forget to **star my repositories**!
+⭐ If you like my work, don’t forget to **star my repositories**
