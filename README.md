@@ -22,13 +22,17 @@ Currently balancing **college + exams** while actively building startups, dashbo
 
 ### 💻 Frontend
 - HTML5, CSS3, JavaScript (ES6+)
-- React.js (Vite)
+- **React.js**
+- **Next.js**
 - Bootstrap, Material UI
-- Framer Motion
+- **Framer Motion**
+- **Lenis (Smooth Scrolling & UX polish)**
 
 ### 🧠 Backend
-- Node.js, Express.js
-- MongoDB, SQL
+- Node.js
+- Express.js
+- MongoDB
+- SQL
 - REST APIs
 
 ### ⚙️ Tools & Platforms
@@ -43,25 +47,61 @@ Currently balancing **college + exams** while actively building startups, dashbo
 ## 🚀 Projects & Startups
 
 ### 🌟 SmartNShine (SaaS)
+🔗 **Live / Repo:** *(add link here)*
+
 - AI Resume Generator (Live)
 - AI Interview System (In Development)
-- Built for **everyone**, not just students
+- Built as a **SaaS product for everyone**, not just students
+- Focus on automation, usability & scalability
+
+---
 
 ### 🔧 KnockNFix (FindPro)
-- Local service marketplace
-- User & Provider portals
-- Location-based provider matching
-- Booking, reviews, payments & commission logic
-- Web + upcoming Mobile App
+🔗 **Live / Repo:** *(add link here)*
 
-### 📊 Dashboards
-- Admin Dashboard for Elections & Candidates
+- Local service marketplace platform
+- Separate **User & Provider portals**
+- Location & time-based provider selection
+- Booking system, reviews & ratings
+- Payment system with **advance payment + commission logic**
+- Backend-driven workflows
+- Web version live, **mobile app planned**
+
+---
+
+### 🏫 Zenith College Website (Next-Level Design)
+🔗 **Live:** https://www.zenithsggs.com/
+
+- Modern **college sports & events website**
+- Galaxy-themed UI with **next-level animations**
+- Built with performance & UX in mind
+- Multiple modules:
+  - Home
+  - Women’s Tournament
+  - Marathon
+  - Teams
+  - Forms & registrations
+- **Backend integration for user handling**
+- Designed to break the stereotype of boring college websites
+
+---
+
+### 📊 Dashboards & Systems
+🔗 **Repo:** *(add link here)*
+
+- Admin Dashboard for managing elections & candidates
 - Transparent College Budget & Sponsorship Tracking System
+- Clean UI + role-based backend logic
+- Built for real administrative usage
+
+---
 
 ### ♟️ Other Builds
-- Multiplayer Chess Game (Spring Boot)
-- Modern College Sports Website (Zenith)
+🔗 **Repo:** *(add link here)*
+
+- Multiplayer Chess Game (Spring Boot backend)
 - Multiple college & business websites
+- Experimental UI/UX concepts & animations
 
 ---
 
@@ -76,11 +116,11 @@ Currently balancing **college + exams** while actively building startups, dashbo
 
 ## 🤝 Open to Collaborate On
 
-- Full-stack web apps
+- Full-stack web applications
 - SaaS products
 - Startup ideas
 - Hackathons
-- Open-source contributions
+- Open-source projects
 
 ---
 
@@ -88,8 +128,9 @@ Currently balancing **college + exams** while actively building startups, dashbo
 
 - Full-stack development
 - Building startups from scratch
-- MERN stack
-- UI/UX for dashboards
+- MERN / Next.js stack
+- Dashboard & admin systems
+- Next-level UI/UX & animations
 - Turning ideas into real products
 
 ---
@@ -97,17 +138,17 @@ Currently balancing **college + exams** while actively building startups, dashbo
 ## 📫 Connect With Me
 
 - 🐙 GitHub: [@atharva038](https://github.com/atharva038)
-- 💼 LinkedIn: *(add your LinkedIn link here)*
-- 📧 Email: *(add your email here)*
+- 💼 LinkedIn: *(add your LinkedIn link)*
+- 📧 Email: *(add your email)*
 
 ---
 
 ## ⚡ Fun Facts
 
 - I hate boring & outdated UIs ❌
-- I love **clean, modern, galaxy-level designs 🌌**
-- I build even when resources are limited
-- Perfectionist… but learning to ship faster 🚢
+- I love **modern, animated, premium interfaces 🌌**
+- I build even with limited resources
+- Perfectionist… but learning to ship faster 🚀
 
 ---
 
