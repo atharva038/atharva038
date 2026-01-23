@@ -17,42 +17,58 @@ Currently balancing **college + exams** while actively building startups, dashbo
 - 🔥 Believe in: *“Build first. Improve fast.”*
 
 ---
-
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ### 💻 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- Next.js
-- Bootstrap, Material UI
-- Framer Motion
-- Lenis (Smooth Scrolling & UX polish)
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
+- Next.js  
+- Bootstrap  
+- Material UI  
+- Framer Motion  
+- Lenis  
+- Responsive Design  
+- UI/UX Design  
 
 </td>
-<td valign="top" width="50%">
+
+<td valign="top" width="33%">
 
 ### 🧠 Backend
-- Node.js
-- Express.js
-- MongoDB
-- SQL
-- REST APIs
+- Node.js  
+- Express.js  
+- MongoDB  
+- SQL  
+- REST APIs  
+- Authentication & Authorization  
+- Role-based Access Control  
+- Payment Integration  
+- Backend Architecture  
+
+</td>
+
+<td valign="top" width="34%">
+
+### ⚙️ Tools & Platforms
+- Git  
+- GitHub  
+- VS Code  
+- DigitalOcean  
+- Razorpay API  
+- Mapbox API  
+- Postman  
+- Cloud Deployment  
+- API Testing  
 
 </td>
 </tr>
 </table>
-
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- DigitalOcean
-- Razorpay API
-- Mapbox API
-
 ---
 
 ## 🚀 Projects & Startups
