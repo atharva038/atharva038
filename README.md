@@ -56,8 +56,8 @@ Currently balancing **college + exams** while actively building startups, dashbo
 
 ---
 
-### 🔧 KnockNFix (FindPro)
-🔗 **Live / Repo:** *(add link here)*
+### 🔧 KnockNFix
+🔗 **Live / Repo:** *(https://github.com/atharva038/KnockNFix)*
 
 - Local service marketplace platform
 - Separate **User & Provider portals**
@@ -86,8 +86,8 @@ Currently balancing **college + exams** while actively building startups, dashbo
 
 ---
 
-### 📊 Dashboards & Systems
-🔗 **Repo:** *(add link here)*
+### 📊 College System
+🔗 **Repo:** *(https://github.com/atharva038/CollegeSystem)*
 
 - Admin Dashboard for managing elections & candidates
 - Transparent College Budget & Sponsorship Tracking System
@@ -96,19 +96,12 @@ Currently balancing **college + exams** while actively building startups, dashbo
 
 ---
 
-### ♟️ Other Builds
-🔗 **Repo:** *(add link here)*
-
-- Multiplayer Chess Game (Spring Boot backend)
-- Multiple college & business websites
-- Experimental UI/UX concepts & animations
-
----
-
 ## 🧠 Currently Learning
 
-- Computer Organisation & Architecture
-- Microprocessors & Interfacing
+- NextJS
+- Generative AI
+- Agentic AI
+- Cloud Computing
 - Advanced backend architecture
 - Startup & SaaS scaling strategies
 
@@ -138,8 +131,8 @@ Currently balancing **college + exams** while actively building startups, dashbo
 ## 📫 Connect With Me
 
 - 🐙 GitHub: [@atharva038](https://github.com/atharva038)
-- 💼 LinkedIn: *(add your LinkedIn link)*
-- 📧 Email: *(add your email)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/atharva-joshi-8a7b19319/)*
+- 📧 Email: *(atharvasjoshi2005@gmail.com)*
 
 ---
 
