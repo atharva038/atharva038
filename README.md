@@ -20,13 +20,20 @@ Currently balancing **college + exams** while actively building startups, dashbo
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 💻 Frontend
 - HTML5, CSS3, JavaScript (ES6+)
-- **React.js**
-- **Next.js**
+- React.js
+- Next.js
 - Bootstrap, Material UI
-- **Framer Motion**
-- **Lenis (Smooth Scrolling & UX polish)**
+- Framer Motion
+- Lenis (Smooth Scrolling & UX polish)
+
+</td>
+<td valign="top" width="50%">
 
 ### 🧠 Backend
 - Node.js
@@ -34,6 +41,10 @@ Currently balancing **college + exams** while actively building startups, dashbo
 - MongoDB
 - SQL
 - REST APIs
+
+</td>
+</tr>
+</table>
 
 ### ⚙️ Tools & Platforms
 - Git & GitHub
