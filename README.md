@@ -1,145 +1,142 @@
-<h1 align="center">Hi 👋, I'm Atharva Sachin Joshi</h1>
-<h3 align="center">Builder • Full-Stack Developer • Student • Future Founder 🚀</h3>
+<div align="center">
 
-<p align="center">
-I build <b>real products</b>, solve <b>practical problems</b>, and turn ideas into <b>working systems</b>.
-</p>
+# Atharva Sachin Joshi
 
-<p align="center">
-Currently balancing <b>college + exams</b> while building startups, dashboards, and production-ready apps.
-</p>
+**Builder · Full-Stack Developer · Future Founder**
 
----
+*I build real products, solve practical problems, and turn ideas into working systems.*
 
-## 🧠 Quick Snapshot
+<a href="https://www.linkedin.com/in/atharva-joshi-8a7b19319/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/atharva038">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:atharvasjoshi2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-- 🎓 B.Tech @ **SGGSIET, Nanded**
-- 🚀 Aspiring **builder-founder**
-- 🏆 Winner of a **Shark Tank–style startup competition**
-- 🔥 Strong in **problem-solving & fast execution**
-
----
-
-## 🛠️ Tech Stack
-
-<table width="100%">
-<tr>
-<td valign="top" width="33%">
-
-### 💻 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Next.js
-- Bootstrap, Material UI
-- Framer Motion, Lenis
-- UI/UX & Responsive Design
-
-</td>
-
-<td valign="top" width="33%">
-
-### 🧠 Backend
-- Node.js, Express.js
-- MongoDB, SQL
-- REST APIs
-- Auth & Role-based Access
-- Payments & Backend Architecture
-
-</td>
-
-<td valign="top" width="34%">
-
-### ⚙️ Tools & Platforms
-- Git, GitHub
-- VS Code
-- DigitalOcean
-- Razorpay API
-- Mapbox API
-- Postman, Cloud Deployment
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### 🌟 SmartNShine (SaaS)
-🔗 *(https://www.smartnshine.app/)*
-- AI Resume Generator (Live)
-- AI Interview System (In Progress)
-- Built for **everyone**, not just students  
+B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while building startups and production-ready applications. Won a **Shark Tank-style startup competition** and ship real things that people actually use.
 
 ---
 
-### 🔧 KnockNFix
-🔗 https://github.com/atharva038/KnockNFix
+## Tech Stack
 
-- Local service marketplace
-- User & Provider portals
-- Location-based matching
-- Payments with commission logic
-- Backend-driven workflows
+**Frontend**
+&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**Backend**
+&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 
 ---
 
-### 🏫 Zenith College Website
-🔗 https://www.zenithsggs.com/
+## Projects
 
-- Modern college sports & events platform
-- Galaxy-themed UI & animations
-- Multiple modules + backend user handling
-- Built to break boring college website norms
+### SmartNShine — SaaS Platform
+> AI-powered career tools built for everyone, not just students.
 
----
+| | |
+|---|---|
+| **Live App** | [smartnshine.app](https://www.smartnshine.app/) |
+| **AI Resume Generator** | Live |
+| **AI Interview System** | In Progress |
+
+<br>
+
+### KnockNFix — Local Services Marketplace
+> A full-stack marketplace connecting users to verified local service providers.
+
+| | |
+|---|---|
+| **GitHub** | [atharva038/KnockNFix](https://github.com/atharva038/KnockNFix) |
+| **Highlights** | Location-based matching, dual portals, payments with commission logic |
+| **Stack** | Node.js · MongoDB · Express · Razorpay · Mapbox |
+
+<br>
+
+### Zenith College Website
+> A modern sports & events platform — built to break boring college website norms.
+
+| | |
+|---|---|
+| **Live** | [zenithsggs.com](https://www.zenithsggs.com/) |
+| **Highlights** | Galaxy-themed UI, animations, multiple modules, backend user handling |
+
+<br>
 
 <details>
-<summary><b>📊 More Projects</b></summary>
+<summary><b>More Projects</b></summary>
 
-### 📊 College System
-🔗 https://github.com/atharva038/CollegeSystem
+<br>
 
-- Election & candidate management
-- Budget & sponsorship tracking
-- Role-based admin dashboard
+### College System
+> Internal college management tool with election, budget, and admin features.
+
+| | |
+|---|---|
+| **GitHub** | [atharva038/CollegeSystem](https://github.com/atharva038/CollegeSystem) |
+| **Highlights** | Election & candidate management, budget tracking, role-based admin dashboard |
 
 </details>
 
 ---
 
-## 🌱 Currently Learning
-- Next.js (Advanced)
-- Generative AI
-- Agentic AI
-- Cloud Computing
-- SaaS & Startup Scaling
+## Currently Learning
+
+`Next.js (Advanced)` &nbsp; `Generative AI` &nbsp; `Agentic AI` &nbsp; `Cloud Computing` &nbsp; `SaaS Scaling`
 
 ---
 
-## 🤝 Open to Collaborate On
-- Full-stack apps
-- SaaS products
-- Startup ideas
-- Hackathons
-- Open-source projects
+## Open to Collaborate On
+
+Full-stack apps · SaaS products · Startup ideas · Hackathons · Open-source
 
 ---
 
-## 📫 Connect With Me
+## GitHub Stats
 
-- 🐙 GitHub: https://github.com/atharva038
-- 💼 LinkedIn: https://www.linkedin.com/in/atharva-joshi-8a7b19319/
-- 📧 Email: atharvasjoshi2005@gmail.com
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atharva038&theme=github_dark" height="165" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharva038&theme=github_dark" height="165" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=atharva038&theme=github-dark&hide_border=true" height="165" />
+
+</div>
 
 ---
 
-## ⚡ Fun Facts
-- ❌ I hate boring & outdated UIs  
-- 🌌 Love modern, animated, premium interfaces  
-- 🚀 Perfectionist learning to ship faster  
+<div align="center">
 
----
+*"Build things people actually use."*
 
-> *“Build things people actually use.”*
-
-⭐ If you like my work, don’t forget to **star my repositories**
+</div>
