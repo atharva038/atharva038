@@ -1,64 +1,54 @@
-<div align="center">
+<p align="center">
+  <img src="banner.png" alt="Profile Banner" width="100%" />
+</p>
 
-# Atharva Sachin Joshi
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&duration=4000&pause=1000&color=FB8C00&center=true&vCenter=true&width=600&lines=Atharva+Sachin+Joshi;Builder+·+Full-Stack+Developer;Future+Founder" alt="Typing SVG" />
+  </a>
+</p>
 
-**Builder · Full-Stack Developer · Future Founder**
+<p align="center">
+  <em>I build real products, solve practical problems, and turn ideas into working systems.</em>
+</p>
 
-*I build real products, solve practical problems, and turn ideas into working systems.*
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharva-joshi-8a7b19319/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FB8C00?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/atharva038"><img src="https://img.shields.io/badge/GitHub-Follow-1F1F1F?style=for-the-badge&logo=github&logoColor=FB8C00" alt="GitHub" /></a>
+  <a href="mailto:atharvasjoshi2005@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-FB8C00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/atharva-joshi-8a7b19319/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/atharva038">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:atharvasjoshi2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="fire" width="100%" />
+</p>
 
-</div>
-
----
-
-## About
+## 🚀 About Me
 
 B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while building startups and production-ready applications. Won a **Shark Tank-style startup competition** and ship real things that people actually use.
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
-**Frontend**
-&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+**Frontend & Backend**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql&theme=dark" alt="Skills" />
+  </a>
+</p>
 
-**Backend**
-&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+**Tools & Platforms**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,postman,docker,linux,vercel&theme=dark" alt="Tools" />
+  </a>
+</p>
 
 ---
 
-## Projects
+## 🏗️ Projects
 
-### SmartNShine — SaaS Platform
+### 🌟 SmartNShine — SaaS Platform
 > AI-powered career tools built for everyone, not just students.
 
 | | |
@@ -67,9 +57,15 @@ B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while b
 | **AI Resume Generator** | Live |
 | **AI Interview System** | In Progress |
 
+<p align="center">
+  <a href="https://www.smartnshine.app">
+    <img src="smartnshine.png" alt="SmartNShine SaaS Platform" width="100%" />
+  </a>
+</p>
+
 <br>
 
-### KnockNFix — Local Services Marketplace
+### 🛠️ KnockNFix — Local Services Marketplace
 > A full-stack marketplace connecting users to verified local service providers.
 
 | | |
@@ -78,15 +74,43 @@ B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while b
 | **Highlights** | Location-based matching, dual portals, payments with commission logic |
 | **Stack** | Node.js · MongoDB · Express · Razorpay · Mapbox |
 
+<p align="center">
+  <a href="https://github.com/atharva038/KnockNFix">
+    <img src="knocknfix.png" alt="KnockNFix Screenshot" width="100%" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/atharva038/KnockNFix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva038&repo=KnockNFix&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=1F1F1F&border_color=FB8C00&hide_border=false" alt="KnockNFix" />
+  </a>
+</p>
+
 <br>
 
-### Zenith College Website
+### 🎓 Zenith College Website
 > A modern sports & events platform — built to break boring college website norms.
 
 | | |
 |---|---|
 | **Live** | [zenithsggs.com](https://www.zenithsggs.com/) |
 | **Highlights** | Galaxy-themed UI, animations, multiple modules, backend user handling |
+
+<p align="center">
+  <a href="https://www.zenithsggs.com">
+    <img src="zenith.png" alt="Zenith College Hub" width="100%" />
+  </a>
+</p>
+
+<br>
+
+### 👨‍💻 Portfolio Web Profile
+
+<p align="center">
+  <a href="https://atharvajoshi.me">
+    <img src="portfolio-screenshot.png" alt="Portfolio Site" width="100%" />
+  </a>
+</p>
 
 <br>
 
@@ -95,7 +119,7 @@ B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while b
 
 <br>
 
-### College System
+### 🏛️ College System
 > Internal college management tool with election, budget, and admin features.
 
 | | |
@@ -103,40 +127,41 @@ B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while b
 | **GitHub** | [atharva038/CollegeSystem](https://github.com/atharva038/CollegeSystem) |
 | **Highlights** | Election & candidate management, budget tracking, role-based admin dashboard |
 
+<p align="left">
+  <a href="https://github.com/atharva038/CollegeSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva038&repo=CollegeSystem&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=1F1F1F&border_color=FB8C00&hide_border=false" alt="CollegeSystem" />
+  </a>
+</p>
+
 </details>
 
 ---
 
-## Currently Learning
+## 📈 GitHub Stats & Activity
 
-`Next.js (Advanced)` &nbsp; `Generative AI` &nbsp; `Agentic AI` &nbsp; `Cloud Computing` &nbsp; `SaaS Scaling`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharva038&show_icons=true&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=1F1F1F&border_color=FB8C00&hide_border=false" height="192" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva038&layout=compact&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=1F1F1F&border_color=FB8C00&hide_border=false" height="192" alt="top languages" />
+</p>
 
----
+### 🟧 Contribution Graph
 
-## Open to Collaborate On
+<p align="center">
+  <img src="https://ghchart.rshah.org/FB8C00/atharva038" alt="Github Contribution Graph" width="100%" />
+</p>
 
-Full-stack apps · SaaS products · Startup ideas · Hackathons · Open-source
+### 🐍 Snake Contribution Game
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atharva038&theme=github_dark" height="165" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharva038&theme=github_dark" height="165" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=atharva038&theme=github-dark&hide_border=true" height="165" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/atharva038/atharva038/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+</p>
 
 ---
 
-<div align="center">
-
-*"Build things people actually use."*
-
-</div>
+<p align="center">
+  <code>Next.js</code> &nbsp;•&nbsp; <code>Agentic AI</code> &nbsp;•&nbsp; <code>Cloud Computing</code> &nbsp;•&nbsp; <code>SaaS Scaling</code>
+  <br><br>
+  <em>"Build things people actually use."</em>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=atharva038&label=Profile%20Views&color=FB8C00&style=flat" alt="Visitor Counter" />
+</p>
