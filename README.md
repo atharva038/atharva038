@@ -109,10 +109,10 @@ B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while b
 ## <img src="https://api.iconify.design/lucide/bar-chart.svg?color=%23FB8C00" width="28" align="absmiddle"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharva038&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=0d1117&border_color=FB8C00&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva038&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=0d1117&border_color=FB8C00&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atharva038&show_icons=true&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=0d1117&border_color=FB8C00&hide_border=false&v=2" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva038&layout=compact&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=0d1117&border_color=FB8C00&hide_border=false&v=2" alt="top languages" />
   <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=atharva038&theme=transparent&background=0d1117&border=FB8C00&stroke=ffffff&ring=FB8C00&fire=FB8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FB8C00&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=atharva038&theme=transparent&background=0d1117&border=FB8C00&stroke=ffffff&ring=FB8C00&fire=FB8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FB8C00&sideLabels=ffffff&dates=ffffff&hide_border=false&v=2" alt="streak stats" />
 </div>
 
 ---
@@ -138,9 +138,9 @@ B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while b
 
 <!-- Snake - will work after workflow runs successfully -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharva038/atharva038/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharva038/atharva038/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/atharva038/atharva038/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharva038/atharva038/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharva038/atharva038/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/atharva038/atharva038/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -150,7 +150,9 @@ B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while b
 <p align="center">
   <code>Next.js</code> &nbsp;•&nbsp; <code>Agentic AI</code> &nbsp;•&nbsp; <code>Cloud Computing</code> &nbsp;•&nbsp; <code>SaaS Scaling</code>
   <br><br>
-  <em>"Build things people actually use."</em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=4000&pause=1000&color=FB8C00&center=true&vCenter=true&width=600&lines=%22Build+things+people+actually+use.%22" alt="Typing Quote" />
+  </a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=atharva038&label=Profile%20Views&color=FB8C00&style=flat" alt="Visitor Counter" />
 </p>
