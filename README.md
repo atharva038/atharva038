@@ -38,7 +38,7 @@ B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while b
 
 ## <img src="https://api.iconify.design/lucide/code.svg?color=%23FB8C00" width="28" align="absmiddle"> Projects
 
-### <img src="https://api.iconify.design/lucide/star.svg?color=%23FB8C00" width="24" align="absmiddle"> SmartNShine — SaaS Platform
+### <img src="smarthshine-logo.png" height="28" align="absmiddle"> SmartNShine — SaaS Platform
 > AI-powered career tools built for everyone, not just students.
 
 | | |
@@ -55,7 +55,7 @@ B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while b
 
 <br>
 
-### <img src="https://api.iconify.design/lucide/tool.svg?color=%23FB8C00" width="24" align="absmiddle"> KnockNFix — Local Services Marketplace
+### <img src="KnockNFix-logo.png" height="28" align="absmiddle"> KnockNFix — Local Services Marketplace
 > A full-stack marketplace connecting users to verified local service providers.
 
 | | |
@@ -70,15 +70,15 @@ B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while b
   </a>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/atharva038/KnockNFix">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva038&repo=KnockNFix&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=1F1F1F&border_color=FB8C00&hide_border=false" alt="KnockNFix" />
   </a>
-</p>
+</p> -->
 
 <br>
 
-### <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23FB8C00" width="24" align="absmiddle"> Zenith College Website
+### <img src="zenith-logo.png" height="28" align="absmiddle"> Zenith College Website
 > A modern sports & events platform — built to break boring college website norms.
 
 | | |
@@ -104,41 +104,46 @@ B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while b
 
 <br>
 
-<details>
-<summary><b>More Projects</b></summary>
+---
 
-<br>
+## <img src="https://api.iconify.design/lucide/bar-chart.svg?color=%23FB8C00" width="28" align="absmiddle"> GitHub Stats
 
-### <img src="https://api.iconify.design/lucide/library.svg?color=%23FB8C00" width="24" align="absmiddle"> College System
-> Internal college management tool with election, budget, and admin features.
-
-| | |
-|---|---|
-| **GitHub** | [atharva038/CollegeSystem](https://github.com/atharva038/CollegeSystem) |
-| **Highlights** | Election & candidate management, budget tracking, role-based admin dashboard |
-
-<p align="left">
-  <a href="https://github.com/atharva038/CollegeSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharva038&repo=CollegeSystem&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=1F1F1F&border_color=FB8C00&hide_border=false" alt="CollegeSystem" />
-  </a>
-</p>
-
-</details>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharva038&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=0d1117&border_color=FB8C00&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva038&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=0d1117&border_color=FB8C00&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top languages" />
+  <br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=atharva038&theme=transparent&background=0d1117&border=FB8C00&stroke=ffffff&ring=FB8C00&fire=FB8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FB8C00&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="streak stats" />
+</div>
 
 ---
 
-## <img src="https://api.iconify.design/lucide/bar-chart.svg?color=%23FB8C00" width="28" align="absmiddle"> GitHub Stats & Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharva038&show_icons=true&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=1F1F1F&border_color=FB8C00&hide_border=false" height="192" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva038&layout=compact&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=1F1F1F&border_color=FB8C00&hide_border=false" height="192" alt="top languages" />
-</p>
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%23FB8C00" width="28" align="absmiddle"> Contribution Graph
 
-### <img src="https://api.iconify.design/lucide/activity.svg?color=%23FB8C00" width="24" align="absmiddle"> Contribution Graph & Snake Game
+<br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atharva038/atharva038/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
-</p>
+<!-- activity graph - vercel hosted, reliable -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva038&bg_color=0d1117&color=FB8C00&line=FF9800&point=ffffff&area=true&area_color=FB8C00&hide_border=true&radius=8" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%23FB8C00" width="28" align="absmiddle"> Contribution Snake
+
+<br/>
+
+<!-- Snake - will work after workflow runs successfully -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharva038/atharva038/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharva038/atharva038/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/atharva038/atharva038/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
