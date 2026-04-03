@@ -109,10 +109,10 @@ B.Tech student at **SGGSIET, Nanded** — currently balancing coursework while b
 ## <img src="https://api.iconify.design/lucide/bar-chart.svg?color=%23FB8C00" width="28" align="absmiddle"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharva038&show_icons=true&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=0d1117&border_color=FB8C00&hide_border=false&v=2" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva038&layout=compact&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=0d1117&border_color=FB8C00&hide_border=false&v=2" alt="top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atharva038&show_icons=true&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=0d1117&border_color=FB8C00&hide_border=false&v=3" alt="stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atharva038&layout=compact&title_color=FB8C00&icon_color=FB8C00&text_color=ffffff&bg_color=0d1117&border_color=FB8C00&hide_border=false&v=3" alt="top languages" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=atharva038&theme=transparent&background=0d1117&border=FB8C00&stroke=ffffff&ring=FB8C00&fire=FB8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FB8C00&sideLabels=ffffff&dates=ffffff&hide_border=false&v=2" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=atharva038&theme=transparent&background=0d1117&border=FB8C00&stroke=ffffff&ring=FB8C00&fire=FB8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FB8C00&sideLabels=ffffff&dates=ffffff&hide_border=false&v=3" alt="streak stats" />
 </div>
 
 ---
